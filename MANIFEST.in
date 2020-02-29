@@ -1,0 +1,4 @@
+include mvp/schema.sql
+graft mvp/static
+graft mvp/templates
+global-exclude *.pyc
